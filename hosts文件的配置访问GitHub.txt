@@ -1,0 +1,29 @@
+C:\Windows\System32\drivers\etc
+打开ipaddress.com 查找地址
+
+ipconfig /flushdns 刷新DNS缓存
+
+
+将下面地址添加入hosts中
+192.30.253.112    	github.com
+204.232.175.94 	http://github.com
+107.21.116.220	http://gist.github.com  
+207.97.227.252  	http://help.github.com  
+199.27.76.130	http://nodeload.github.com
+107.22.3.110 	http://raw.github.com  
+204.232.175.78	http://status.github.com 
+207.97.227.243 	http://training.github.com
+192.30.253.113 	github.com
+192.30.253.118 	gist.github.com
+192.30.253.119 	gist.github.com
+
+
+
+
+
+
+
+
+
+
+
