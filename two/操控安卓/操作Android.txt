@@ -1,0 +1,7 @@
+手机pc要在同一网段中
+默认用户名和密码是root和admin
+安卓的根目录是/sdcard
+查看所有目录必须是ls -all (ll或ls -a是看不到隐藏文件的别以为工具垃圾）
+在winscp中操纵Android需要添加路径详见文件  路径添加.png
+
+注意如果要删除或者修改文件如cd system/etc/hosts文件 没有root手机还是不可以，只能复制或查看
